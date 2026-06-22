@@ -11,7 +11,7 @@
 
 > An AI-powered mock interview platform that helps students and professionals prepare for technical and HR interviews through personalized AI-generated questions, real-time feedback, and performance tracking.
 
-🌐 **Live Demo:** https://interviewiq-52sz.onrender.com/
+🌐 **Live Demo:** https://preppilot-5lwd.onrender.com/
 
 ---
 
@@ -194,7 +194,7 @@ Frontend and Backend are deployed on **Render**.
 
 🌐 Live Demo:
 
-https://interviewiq-52sz.onrender.com/
+https://preppilot-5lwd.onrender.com/
 
 ---
 
